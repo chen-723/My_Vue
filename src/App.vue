@@ -3,7 +3,7 @@
     <!-- 视频背景 -->
     <div class="banner">
       <video autoplay muted loop>
-        <source src="/视频/Murasame2kv86.mp4" type="video/mp4" />
+        <source src="<%= BASE_URL %>video/Murasame2kv86.mp4" type="video/mp4" />
         您的浏览器不支持 video 标签
       </video>
     </div>
